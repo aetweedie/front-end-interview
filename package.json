@@ -1,0 +1,19 @@
+{
+  "name": "front-end-interview",
+  "version": "1.0.0",
+  "description": "## Here are some problems",
+  "main": "/src",
+  "dependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.dishonline.com:atweedie/front-end-interview.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
