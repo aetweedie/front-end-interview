@@ -52,7 +52,7 @@ describe('calculateTip', function() {
 });
 
 describe('getCount', function() {
-	xit('should return the number of vowels in the string', function() {
+	it('should return the number of vowels in the string', function() {
 		expect(vowels.getCount('This is a fun interview! I am really going to enjoy working with Alan, he sounds like a neat guy!')).toEqual(31);
 	});
 });
